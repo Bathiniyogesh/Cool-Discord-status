@@ -9,8 +9,8 @@ assets : {
 large_image : "ytt",
 large_text : "Youtube" // THIS WILL SHOW AS "Playing <Status>" from the outisde
 },
-buttons : [{label : "Subscribe" , url : "https://www.youtube.com/channel/UCP3XNJ8iqZagrAFa_ptIuTg"},{label : "Join discord",url : "https://Discord.io/bathiniyogesh"}]
+buttons : [{label : "Subscribe" , url : "your channel url"},{label : "Join discord",url : "your discord url"}]
 }
 })
 })
-client.login({ clientId : "843095616019759114" }).catch(console.error);
+client.login({ clientId : "000000000000000000" }).catch(console.error);
