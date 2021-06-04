@@ -1,6 +1,6 @@
 # Cool-Discord-status
 1. download the folder youtube.
-2. download node.js (installer inculeded)
+2. download node.js from node.js(link :- node.js)
 3. Run the node.js installer.
 4. Install it.
 5. Open the youtube folder after installing.
